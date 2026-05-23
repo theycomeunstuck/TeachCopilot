@@ -1,0 +1,46 @@
+
+
+
+# Secrets & local config
+.env
+*.env.local
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+pipeline/__pycache_/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+
+# Vector DB
+chroma_db/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Temp / scratch
+TEMP/
+---.py
+__123.py
+data/images/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal data — never commit (PII of minors)
+_docs/personal data.txt
+_docs/child profile.txt
+
+_docs\Описание системы_TeachCopilot.docx

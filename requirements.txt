@@ -1,0 +1,9 @@
+psycopg2-binary
+pgvector
+sentence-transformers
+python-dotenv
+requests
+pymupdf
+Pillow
+python-docx
+striprtf
